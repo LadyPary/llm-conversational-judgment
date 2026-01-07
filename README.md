@@ -33,11 +33,11 @@ LLMs are increasingly employed as judges across a variety of tasks, including th
 
 | Model | C1-True | C1-False | C1 Avg | C2-Correct | C2-Incorrect | C2 Avg |
 |-------|---------|----------|--------|------------|--------------|--------|
-| GPT-4o Mini | 60.2 | 80.3 | 70.2 | 75.1 (+14.9) | 67.3 (-13.0) | 71.2 |
-| Mistral Small 3 | 56.6 | 90.4 | 73.5 | 75.4 (+18.8) | 78.5 (-11.9) | 77.0 |
-| Gemma 3 12B | 73.6 | 75.9 | 74.8 | 84.4 (+10.8) | 64.4 (-11.5) | 74.4 |
-| Llama 3.2 3B | 35.0 | 79.7 | 57.4 | 37.0 (+2.0) | 77.8 (-1.9) | 57.4 |
-| Llama 3.1 8B | 31.3 | 83.5 | 57.4 | 25.7 (-5.6) | 85.5 (+2.0) | 55.6 |
+| GPT-4o Mini | 60.2 | 80.3 | 70.2 | 75.1 (🟢+14.9) | 67.3 (🔴-13.0) | 71.2 |
+| Mistral Small 3 | 56.6 | 90.4 | 73.5 | 75.4 (🟢+18.8) | 78.5 (🔴-11.9) | 77.0 |
+| Gemma 3 12B | 73.6 | 75.9 | 74.8 | 84.4 (🟢+10.8) | 64.4 (🔴-11.5) | 74.4 |
+| Llama 3.2 3B | 35.0 | 79.7 | 57.4 | 37.0 (🟢+2.0) | 77.8 (🔴-1.9) | 57.4 |
+| Llama 3.1 8B | 31.3 | 83.5 | 57.4 | 25.7 (🔴-5.6) | 85.5 (🟢+2.0) | 55.6 |
 
 **Key Finding:** Conversational framing creates an asymmetric effect—models become more likely to agree with speakers, boosting accuracy on "correct speaker" tasks but harming it on "incorrect speaker" tasks.
 
