@@ -1,6 +1,6 @@
 # From Fact to Judgment: Investigating the Impact of Task Framing on LLM Conviction in Dialogue Systems
 
-[![Paper](https://img.shields.io/badge/Paper-IWSDS%202026-blue)](link-to-paper)
+[![Paper](https://img.shields.io/badge/Paper-IWSDS%202026-blue)](https://arxiv.org/abs/2511.10871)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
 
