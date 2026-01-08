@@ -31,7 +31,7 @@ LLMs are increasingly employed as judges across a variety of tasks, including th
 
 ### Table 2: Performance on C1 (Factual) vs C2 (Conversational) Conditions
 
-| Model | C1-True | C1-False | C1 Avg | C2-Correct | C2-Incorrect | C2 Avg |
+| Model | C1-True Statement | C1-False Statement | C1 Avg | C2-Correct Speaker | C2-Incorrect Speaker | C2 Avg |
 |-------|---------|----------|--------|------------|--------------|--------|
 | GPT-4o Mini | 60.2 | 80.3 | 70.2 | 75.1 (🟢+14.9) | 67.3 (🔴-13.0) | 71.2 |
 | Mistral Small 3 | 56.6 | 90.4 | 73.5 | 75.4 (🟢+18.8) | 78.5 (🔴-11.9) | 77.0 |
